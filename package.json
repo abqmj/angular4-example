@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "license": "Apache-2.0",
   "author": {
-    "name": "Michael Jordan",
-    "email": "mj@mjcodes.com",
-    "url": "mjcodes.com"
+    "name": "Dylan McDonald",
+    "email": "dylan@deepdivedylan.com",
+    "url": "https://bootcamp-coders.cnm.edu/screencasts/getting-started-with-angular2/"
   },
   "contributors": [
 
@@ -16,10 +16,6 @@
     {
       "name": "Mason Crane",
       "email": "mcrane2@cnm.edu"
-    }
-    {
-      "name": "Dylan Mcdonald",
-      "email": "dylan@deepdivecoders.com"
     }
   ],
   "scripts": {
